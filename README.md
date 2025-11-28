@@ -65,7 +65,6 @@ I plotted degree vs frequency. The plot showed a long tail meaning:
 
 This shape indicates a **power-law distribution**, which is common in social networks.
 
-_(Insert plot image here once committed)_
 
 ---
 
@@ -129,7 +128,7 @@ Nodes appearing in both lists are likely key actors in the network.
 
 I plotted the distribution of clustering coefficients. Most nodes have low clustering which suggests sparse global connectivity but small, close embedded groups.
 
-_(Insert histogram image here)_
+
 
 ---
 
