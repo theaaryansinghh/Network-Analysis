@@ -1,4 +1,33 @@
+# Python cache & compiled files
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebook checkpoints
 .ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Virtual environments
+venv/
+env/
+*.egg-info/
+
+# Dataset folders and raw downloads
+twitch/
+*.csv
+*.tsv
+*.zip
 *.gz
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Large exports
+*.gexf
+*.graphml
